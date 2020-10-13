@@ -11,3 +11,4 @@
     implementation 'androidx.paging:paging-runtime:2.1.2'
     implementation 'com.squareup.picasso:picasso:2.71828'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
